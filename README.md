@@ -25,4 +25,4 @@
  -->
 
 </div>
-
+![Snake animation](https://github.com/JoaoAugZ3/JoaoAugZ3/blob/output/github-contribution-grid-snake.svg)
